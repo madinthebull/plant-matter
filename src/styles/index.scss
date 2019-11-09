@@ -1,0 +1,12 @@
+// Normalize reset.
+@import-normalize;
+
+// Tailwind.
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+// Global styles.
+@import 'utility-classes';
+@import 'typography';
+@import 'mixins';
